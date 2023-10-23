@@ -167,6 +167,25 @@
                     "datasheet": "/documents/shop/totalstationen/leica-ap20-autopole.pdf"
                 }
             ]
+        },
+        {
+            "name": "Test",
+            "link": "/shop/totalstationen/leica-ap20-autopole-test",
+            "image": "/images/shop/totalstationen/leica-ap20-autopole-1.webp",
+            "descriptions_title": "Eigenschaften und Leistungen:",
+            "descriptions": [
+                {
+                    "bullet": true,
+                    "description": "Test"
+                }
+            ],
+            "datasheets_title": "Dokumente:",
+            "datasheets": [
+                {
+                    "description": "Leica Produktedatenblatt",
+                    "datasheet": "/documents/shop/totalstationen/leica-ap20-autopole.pdf"
+                }
+            ]
         }
     ]
 }
